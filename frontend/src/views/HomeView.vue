@@ -33,9 +33,7 @@ export default defineComponent({
 <template>
   <div><h2>welcome to GR App</h2></div>
   <main>
-    
     <div className="body">
-      
 
       <div v-if="session">
 
